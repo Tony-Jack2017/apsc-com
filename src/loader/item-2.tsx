@@ -1,4 +1,4 @@
-const LoadingItem1 = () => {
+const LoadingItem2 = () => {
   return (
     <div className="loader loader--style7" title="6">
       <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -23,4 +23,4 @@ const LoadingItem1 = () => {
   )
 }
 
-export default LoadingItem1
+export default LoadingItem2
