@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import LoadingItem1 from './loader/item-1'
+import LoadingItem2 from './loader/item-2'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,6 +20,7 @@ function App() {
       </div>
       <h1>Vite + React</h1>
       <LoadingItem1 />
+      <LoadingItem2 />
     </>
   )
 }
